@@ -28,15 +28,19 @@ https://www.canva.com/design/DAFpneb97dw/j1mgWVW0PnnzLEH2ON2Sog/watch?utm_conten
 **3. Optimised Website Content**
 
 Keyword Research: 
+
 I conducted thorough keyword research using the tools like Google Keyword Planner and SEMrush to identify relevant keywords which most users are searching and further used all those keywords in my content, ensuring high-quality, informative content to match user search intent and eventually attracting more targeted traffic to the website.
 
 On-Page SEO: 
+
 I worked on adding the Meta titles, Descriptions, Headers, Internal links, Image alt texts, Call-to-Action prompt with the targeted keywords to improve the website’s Search engine visibility and to increase the website ranking on a particular search query related to my website's content.
 
 Page Load Speed Optimization: 
+
 I analysed the website loading speed by using online tools and then worked on optimising the loading speed by compressing images, using browser caching, and minimizing CSS, JavaScript, and HTML code to increase the website performance.
 
 Google Analytics Integration: 
+
 I also linked Google Analytics with the website and regularly monitored user behaviour, source of traffic and the conversion rates.
 
 Here is the link to the website - 
