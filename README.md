@@ -67,3 +67,7 @@ I also interacted with the followers on Instagram by responding to comments and 
 I assisted in running paid advertising campaigns on Instagram, which helped in targeting specific demographics to enhance brand awareness and lead generation.
 
 
+Here is the link to the social media handles - 
+Instagram - https://www.instagram.com/opentellss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+X - https://x.com/bikechuno
+YouTube - https://www.youtube.com/@opentells
