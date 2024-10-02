@@ -8,6 +8,7 @@ I wrote the blogs on various topics such as Comparison between the vehicles, Top
 
 Here is the link - 
 https://bikechuno.com/blog/author/kartik/
+https://drive.google.com/drive/folders/1CbRquG3fqeMvIK1bmNsYqRmNlbMBguY0?usp=sharing
 
 
 **2. Banner Images and Short Videos**
