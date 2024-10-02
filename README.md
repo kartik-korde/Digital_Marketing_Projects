@@ -52,15 +52,15 @@ https://bikechuno.com/
 
 * Content Creation:
 
-I developed engaging posts, images, and short videos tailored to specific audiences across various platforms like Instagram, X, and YoutTube.
+I developed engaging posts, images, and short videos tailored to specific audiences across various platforms like Instagram, X, Pinterest and YoutTube.
 
 * Scheduling and Posting:
 
-Further I efficiently managed the content calendars to schedule posts on X optimal times to increase the visibility and engagement.
+Further I efficiently managed the content calendars to schedule posts on X and Pinterest, optimal times to increase the visibility and engagement.
 
 * Community Engagement:
 
-I also interacted with the followers on Instagram by responding to comments and messages, which helped in building a positive relationship with the audience, and also driving the engagement.
+I also interacted with the followers on Instagram and Youtube by responding to comments and messages, which helped in building a positive relationship with the audience, and also driving the engagement.
 
 * Campaign Management: 
 
@@ -70,4 +70,5 @@ I assisted in running paid advertising campaigns on Instagram, which helped in t
 Here is the link to the social media handles - 
 Instagram - https://www.instagram.com/opentellss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 X - https://x.com/bikechuno
+Pinterest - https://in.pinterest.com/bikekharido
 YouTube - https://www.youtube.com/@opentells
