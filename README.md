@@ -73,3 +73,10 @@ Instagram - https://www.instagram.com/opentellss?utm_source=ig_web_button_share_
 X - https://x.com/bikechuno <br>
 Pinterest - https://in.pinterest.com/bikekharido <br>
 YouTube - https://www.youtube.com/@opentells 
+
+
+**5. E-mail Marketing**
+
+I used Mailchimp to create personalized email templates, manage subscriber lists, and schedule targeted emails to individuals interested in bikes and the biking community at optimal times.
+
+I also included a call-to-action button in e-mails to promote relevant blog posts, new launches of two-wheelers, and exclusive deals of brand, which helped increasing the engagement and drive more traffic to the website.
